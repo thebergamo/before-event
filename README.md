@@ -1,6 +1,6 @@
 beforeEvent
 ========
-[![Build Status](https://travis-ci.org/thebergamo/beforeEvent.svg)](https://travis-ci.org/thebergamo/beforeEvent) [![Coverage Status](https://coveralls.io/repos/thebergamo/beforeEvent/badge.svg?branch=master)](https://coveralls.io/r/thebergamo/beforeEvent?branch=master)
+[![Build Status](https://travis-ci.org/thebergamo/before-event.svg)](https://travis-ci.org/thebergamo/before-event) [![Coverage Status](https://coveralls.io/repos/thebergamo/before-event/badge.svg?branch=master)](https://coveralls.io/r/thebergamo/before-event?branch=master)
 
 BeforeEvent is an simple way to handle events before the trigger are called!
 
