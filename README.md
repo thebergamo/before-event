@@ -8,7 +8,7 @@ You can just simple call beforeEvent in your constructor and this is all you nee
 
 ```javascript
 var utils = require('util');
-var BeforeEvent = require('beforeEvent');
+var BeforeEvent = require('before-event');
 var EventEmitter = require('events').EventEmitter;
 
 var MyEmitter = function(){

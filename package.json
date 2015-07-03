@@ -1,5 +1,5 @@
 {
-  "name": "beforeEvent",
+  "name": "before-event",
   "version": "1.0.0",
   "description": "An simple way to handle before event trigger when an event is emitted.",
   "main": "index.js",
